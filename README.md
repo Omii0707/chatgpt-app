@@ -1,1 +1,1 @@
-# chatgpt-app
+# Cointab Developer Assignment
